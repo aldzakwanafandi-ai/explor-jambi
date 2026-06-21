@@ -13,7 +13,6 @@ body{
     color: #333;
 }
 
-/* HEADER */
 
 header{
     background: #2e5d34;
@@ -47,7 +46,6 @@ nav a:hover{
     color: #ffd54f;
 }
 
-/* HERO */
 
 .hero{
     min-height: 100vh;
@@ -109,8 +107,6 @@ nav a:hover{
     background-attachment: fixed;
 }
 
-/* CONTAINER */
-
 .container{
     width: 90%;
     max-width: 1200px;
@@ -125,7 +121,6 @@ nav a:hover{
     font-size: 36px;
 }
 
-/* BUTTON */
 
 .btn{
     display: inline-block;
@@ -147,7 +142,6 @@ nav a:hover{
     background: #234627;
 }
 
-/* CARD */
 
 
 .card-container{
@@ -189,7 +183,6 @@ nav a:hover{
 .card p{
     font-family: 'Poppins', sans-serif;
 }
-/* TABLE OPEN TRIP */
 
 table{
     width: 100%;
@@ -218,7 +211,6 @@ td{
 td{
     font-family: 'Poppins', sans-serif;
 }
-/* FORM BOOKING */
 
 form{
     background: white;
@@ -244,7 +236,6 @@ textarea{
     border-radius: 5px;
 }
 
-/* TENTANG */
 
 #tentang {
     text-align: center;
@@ -252,7 +243,6 @@ textarea{
     margin-bottom: 10px;
 }
 
-/* FOOTER */
 
 footer{
     background: #1f3d23;
@@ -263,7 +253,6 @@ footer{
 }
 
 
-/* RESPONSIVE */
 
 @media(max-width:768px){
 
