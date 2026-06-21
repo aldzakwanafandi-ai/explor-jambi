@@ -54,7 +54,7 @@ nav a:hover{
             rgba(0,0,0,0.5),
             rgba(0,0,0,0.5)
         ),
-        url("../gambar/gunung-kerinci.jpg");
+        url("gunung-kerinci.jpg");
 
     background-size: cover;
     background-position: center;
@@ -89,7 +89,6 @@ nav a:hover{
     line-height: 1.8;
 }
 
-/* BACKGROUND SETIAP SECTION */
 .container h2{
     font-family: 'Playfair Display', serif;
     font-weight: 700;
@@ -100,7 +99,7 @@ nav a:hover{
             rgba(255,255,255,0.88),
             rgba(255,255,255,0.88)
         ),
-        url("../gambar/gunung-kerinci.jpg");
+        url("gunung-kerinci.jpg");
 
     background-size: cover;
     background-position: center;
